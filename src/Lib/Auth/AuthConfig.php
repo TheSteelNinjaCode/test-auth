@@ -16,7 +16,7 @@ enum AuthRole: string
 class AuthConfig
 {
     public const ROLE_IDENTIFIER = 'role';
-    public const IS_ROLE_BASE = false;
+    public const IS_ROLE_BASE = true;
     public const IS_TOKEN_AUTO_REFRESH = true;
 
     // An array listing the public routes that do not require authentication.
