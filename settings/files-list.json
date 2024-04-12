@@ -1,0 +1,20 @@
+[
+    ".\/src\/app\\(public)\\customers\\index.php",
+    ".\/src\/app\\(public)\\layout.php",
+    ".\/src\/app\\assets\\images\\prisma-php.png",
+    ".\/src\/app\\auth\\login\\index.php",
+    ".\/src\/app\\auth\\register\\index.php",
+    ".\/src\/app\\css\\index.css",
+    ".\/src\/app\\css\\styles.css",
+    ".\/src\/app\\css\\tailwind.css",
+    ".\/src\/app\\dashboard\\index.php",
+    ".\/src\/app\\dashboard\\users\\index.php",
+    ".\/src\/app\\favicon.ico",
+    ".\/src\/app\\index.php",
+    ".\/src\/app\\js\\index.js",
+    ".\/src\/app\\layout.php",
+    ".\/src\/app\\metadata.php",
+    ".\/src\/app\\not-found.php",
+    ".\/src\/app\\users\\api\\route.php",
+    ".\/src\/app\\users\\index.php"
+]

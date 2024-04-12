@@ -1,0 +1,3 @@
+<section>
+    <?= $childContent ?>
+</section>
